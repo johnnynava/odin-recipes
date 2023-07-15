@@ -1,0 +1,16 @@
+* {
+    font-family: arial, sans-serif;
+}
+
+#mainh1 {
+    font-family: tahoma, sans-serif;
+    color: rgb(139, 16, 16);
+}
+
+.mainlist {
+    font-weight: bold;
+}
+
+h1 {
+    color: green;
+}
